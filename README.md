@@ -3,5 +3,5 @@
 
 
 *Tecnologias utilizadas no projeto:*
-#Postman collection, Suite de testes e JSON Server#
+Postman collection, Suite de testes e JSON Server
 
